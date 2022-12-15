@@ -14,7 +14,7 @@ The training set of real polyimides comes from the PolyInfo database https://pol
 
 For the discovery of novel high-performing polymimides, we build a comprehensive library of more than 8 million hypothetical polyimides based on the polycondensation of existing dianhydride and diamine/diisocyanate molecules.
 
-<p align="center"><img src="images/Picture1.emf" width="800"></p> 
+<p align="center"><img src="images/fig1.png" width="800"></p> 
 
 ## High-performing novel polyimides
 In the design space of the three properties (σy, E, and Tg), 3 best-performing hypothetical polyimides (high σy, E, and Tg at the same time) are identified from the 8 million hypothetical polyimides. The discovered hypothetical polyimides are beyond the Pareto frontier boundary of real polyimides, suggesting superior performances. 

@@ -6,8 +6,7 @@ A machine-learning implementation that evaluate the thermal and mechanical prope
 https://user-images.githubusercontent.com/18473469/205360407-ca71a067-7693-4b6b-a0df-4651911c052c.mp4
 
 
-<p align="center"><img src="images/App_1.png" width="800"></p> 
-<p align="center"><img src="images/App_2.png" width="800"></p> 
+
 
 ## Datasets
 The training set of real polyimides comes from the PolyInfo database https://polymer.nims.go.jp/en/ (National Institute for Materials Science (NIMS) holds the copyright of this database system).

@@ -19,7 +19,7 @@ For the discovery of novel high-performing polymimides, we build a comprehensive
 ## High-performing novel polyimides
 In the design space of the three properties (σy, E, and Tg), 3 best-performing hypothetical polyimides (high σy, E, and Tg at the same time) are identified from the 8 million hypothetical polyimides. The discovered hypothetical polyimides are beyond the Pareto frontier boundary of real polyimides, suggesting superior performances. 
 
-<p align="center"><img src="images/3D_design_map.png" width="800"></p> 
+<p align="center"><img src="images/fig2.png" width="800"></p> 
 
 ## License
 Please refer to our paper for details.
